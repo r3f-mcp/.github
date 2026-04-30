@@ -239,7 +239,7 @@ Engineering starts with people, not code.
 
 This project is in early development. Issues, PRs, and ideas are welcome.
 
-If you're building something with r3f-mcp, I'd love to hear about it — reach out on [X](https://x.com/louannemmurphy) or [Bluesky]([https://bsky.app/profile/louanne.me](https://bsky.app/profile/louannemur.bsky.social)).
+If you're building something with r3f-mcp, I'd love to hear about it! Reach out on [X](https://x.com/louannemmurphy) or [Bluesky]([https://bsky.app/profile/louanne.me](https://bsky.app/profile/louannemur.bsky.social)).
 
 ---
 
